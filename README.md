@@ -30,7 +30,41 @@ IV. SUBMISSION
 The deadline for submission is 48 hours.
 You need to upload your assignment to Google Drive, and then send a public link to the Google Drive file to hr@gethomebase.com to submit your take-home assignment. Please make sure the SHARING SETTING is PUBLIC.
 
-### Description
+### Contact:
+
+I will share more details when I participate in the project!
+Currently, I can only build the project based on that requirement.
+If you have any questions, you can contact me to ask me
+
+Gmail: tienphan027@gmail.com
+Mobile: (+84) 388001401 / (+84) 962425552
+Telegram: 0962425552
+Skype: live:tienphan027
+
+### Information version code:
+
+Flutter 3.7.12 • channel stable • https://github.com/flutter/flutter.git
+Framework • revision 4d9e56e694 (7 months ago) • 2023-04-17 21:47:46 -0400
+Engine • revision 1a65d409c7
+Tools • Dart 2.19.6 • DevTools 2.20.1
+
+[✓] Android toolchain - develop for Android devices (Android SDK version 33.0.0)
+[✓] Xcode - develop for iOS and macOS (Xcode 15.0.1)
+
+iPhone 15 (mobile) • C773E30D-3ED6-40FB-9ADD-23A6DFEABF65 • ios • com.apple.CoreSimulator.SimRuntime.iOS-17-0
+(simulator)
+
+### Clone:
+
+- git clone git@github.com:tienphan027/weather_app.git
+- add project in tool code (VsCode)
+- run commandline
+  - flutter --version
+  - flutter doctor
+  - flutter pub get
+  - open -a simulator
+
+### Description:
 
 Library:
 #---location---  
@@ -51,9 +85,3 @@ Project tree
 - widget -> support for view
 - model
 - styles
-
-#
-
-I will share more details when I participate in the project!
-Currently, I can only build the project based on that requirement.
-If you have any questions, you can contact me to ask me
