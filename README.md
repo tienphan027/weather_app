@@ -2,7 +2,6 @@
 
 # Requirements
 
-I. DETAILS
 Project: Weather App
 Objective: Create a basic Flutter mobile app that fetches and displays current weather information for a given location.
 Requirements:
@@ -12,23 +11,6 @@ Temperature (in Celsius or Fahrenheit)
 Weather condition (e.g., sunny, cloudy, rainy)
 Error Handling: Implement basic error handling for cases where the location input is invalid or the weather data cannot be retrieved.
 User-Friendly UI: Design a simple and user-friendly UI.
-
-II. SUBMISSION
-Create a Git repository for your project.
-Include a README with instructions on how to run the app and any additional information you’d like to provide.
-Share the Git repository link with us for evaluation.
-
-III. EVALUATION CRITERIA
-Your submission will be evaluated based on:
-Code quality, structure, and organization.
-User interface design and user experience.
-Functionality and adherence to the requirements.
-Bonus features, if implemented.
-Documentation and instructions.
-
-IV. SUBMISSION
-The deadline for submission is 48 hours.
-You need to upload your assignment to Google Drive, and then send a public link to the Google Drive file to hr@gethomebase.com to submit your take-home assignment. Please make sure the SHARING SETTING is PUBLIC.
 
 ### Contact:
 
